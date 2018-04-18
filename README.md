@@ -1,3 +1,9 @@
 ### Java基础
 1. [java中==和equals和hashCode的区别](/JavaBasics/001_java中==和equals和hashCode的区别.md)
 2. [int、char、long各占多少字节数](/JavaBasics/002_int、char、long各占多少字节数.md)
+3. [int与integer的区别](/JavaBasics/003.md)
+4. [探探对java多态的理解](/JavaBasics/004.md)
+5. [String、StringBuffer、StringBuilder区别](/JavaBasics/005.md)
+6. [什么是内部类？内部类的作用](/JavaBasics/006.md)
+7. [抽象类和接口区别](/JavaBasics/007.md)
+8. [抽象类的意义](/JavaBasics/008.md)
