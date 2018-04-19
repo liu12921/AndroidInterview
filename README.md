@@ -14,3 +14,15 @@
 13. [父类的静态方法能否被子类重写](/JavaBasics/013.md)
 14. [进程和线程的区别](/JavaBasics/014.md)
 15. [final，finally，finalize的区别](/JavaBasics/015.md)
+16. [序列化的方式](/JavaBasics/016.md)
+17. [Serializable 和Parcelable 的区别](/JavaBasics/016.md)
+18. [静态属性和静态方法是否可以被继承？是否可以被重写？以及原因？](/JavaBasics/018.md)
+19. [静态内部类的设计意图](/JavaBasics/019.md)
+20. [成员内部类、静态内部类、局部内部类和匿名内部类的理解，以及项目中的应用](/JavaBasics/006.md)
+21. [对kotlin的理解]
+22. [闭包相关](/JavaBasics/022.md)
+23. [string 转换成 integer的方式及原理](/JavaBasics/023.md)
+
+### Java源码
+24. [哪些情况下的对象会被垃圾回收机制处理掉？](/JavaSource/024.md)
+25. [讲一下常见编码方式](/JavaSource/025.md)
